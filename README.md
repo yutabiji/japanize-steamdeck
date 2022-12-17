@@ -1,0 +1,2 @@
+# japanize-steamdeck
+Steamdeckデスクトップモードを日本語で使いやすくするためのプロジェクトです。
